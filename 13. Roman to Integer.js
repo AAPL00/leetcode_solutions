@@ -1,5 +1,5 @@
 var romanToInt = function(s) {
-    var number;
+    var number = 0;
     var numerical_value = [];
     for (var i = 0; i < s.length; i++) {
         switch (s[i]) {
