@@ -1,4 +1,4 @@
-/*LEETCODE NO ACEPTA LA SOLUCION POR UN RUNTIME ERROR PERO FUNCIONA PERDECTAMENTE */
+/*LEETCODE NO ACEPTA LA SOLUCION POR UN RUNTIME ERROR PERO FUNCIONA PERFECTAMENTE */
 var removeDuplicates = function(nums) {
     for (var i = 0; i < nums.length - 1; i++) {
         for (var j = i + 1; j < nums.length; j++) {
