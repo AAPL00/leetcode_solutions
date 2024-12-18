@@ -1,4 +1,4 @@
-def isPalindrome(x):
+def is_palindrome(x):
     result = True
     number_str = str(x)
     for index in range(len(number_str)):
